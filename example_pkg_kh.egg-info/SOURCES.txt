@@ -1,8 +1,0 @@
-README.md
-setup.py
-example_pkg_kh.egg-info/PKG-INFO
-example_pkg_kh.egg-info/SOURCES.txt
-example_pkg_kh.egg-info/dependency_links.txt
-example_pkg_kh.egg-info/top_level.txt
-test/__init__.py
-test/test_calculator.py
